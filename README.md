@@ -50,7 +50,7 @@ Android 11 ，lineageos18.1，magisk24.1，twrp3.6.0
 
 ## 额外信息
 
-android issue：[https://issuetracker.google.com/issues/210063917]([https://issuetracker.google.com/issues/210063917)
+android issue：[https://issuetracker.google.com/issues/210063917](https://issuetracker.google.com/issues/210063917)
 
 init.rc重置/data/所有文件的selinux context ：[https://cs.android.com/android/_/android/platform/system/core/+/refs/tags/android-11.0.0_r48:rootdir/init.rc;drc=109a140f6cf20ba0aa1f517999c690f6f4281b42;l=770](https://cs.android.com/android/_/android/platform/system/core/+/refs/tags/android-11.0.0_r48:rootdir/init.rc;drc=109a140f6cf20ba0aa1f517999c690f6f4281b42;l=770)
 
